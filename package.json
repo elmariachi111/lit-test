@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "lit-share-modal-v3": "0.0.82",
+    "lit-share-modal-v3": "0.0.83",
     "next": "12.2.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
